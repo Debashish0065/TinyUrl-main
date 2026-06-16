@@ -78,4 +78,4 @@ GET /{shortId}
 - **Feel free to fork this repo, create feature branches, and submit PRs!**
   
 ## License
-- **MIT License - © 2025 Manas Ranjan Satapathy**
+- **MIT License - © 2026 Debashis Satapathy**
